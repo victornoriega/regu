@@ -1,0 +1,5 @@
+*.pyc
+__MAC*
+.ipynb_c*
+
+
